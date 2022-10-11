@@ -1,0 +1,26 @@
+section {
+  height: 100vh;
+}
+
+section h3 {
+  color: darkcyan;
+  text-align: center;
+}
+
+section ul {
+  margin: 1.5em auto 1.5em auto;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+section li {
+  color: #393a3e;
+  list-style-type: disc;
+  font-weight: bold;
+}
+
+section p {
+  margin: 0.5em 0;
+}
+/*# sourceMappingURL=sass.css.map */
